@@ -1,4 +1,4 @@
-import { setupENS } from '@ansdomains/ui'
+import { setupENS } from '@onsdomains/ui'
 import { isENSReadyReactive } from '../reactiveVars'
 
 const INFURA_ID =
